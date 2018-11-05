@@ -1,0 +1,23 @@
+**/venv/**
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+.vscode/settings.json
+settings.py
+*.ignore
+*.idea
+vcs.xml
+*.sh
+run.sh
+.idea
+Makefile
+.python-version
+*/settings.py
+community/tests.py
+.env
+*.sqlite3
+*.out
+
+*/migrations/*
+!__init__.py
